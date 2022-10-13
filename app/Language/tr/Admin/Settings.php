@@ -1,0 +1,45 @@
+<?php
+
+return [
+    'title' => 'Ayarlar Sayfası Çeviri Dosyası',
+    'description' => 'Bu alanda ki veriler ayarlar sayfası için kullanılan metinleri içermektedir.',
+    'text'  => [
+        'title'                 => 'Ayarlar',
+        'change_btn'            => 'Ayarları Değiştir',
+        'site_setting'          => 'Site Ayarları',
+        'site_content'          => 'Siteniz ile ilgili Başlık, Açıklama ve Logo ayarlarını bu bölümden yapabilirsiniz.',
+        'system_setting'        => 'Sistem Ayarları',
+        'system_content'        => 'Sistem ile ilgili Bakım Modu, Kayıt, Giriş Doğrulama sistem ayarlarınızı buradan yapabilirsiniz.',
+        'email_setting'         => 'E-Mail Ayarları',
+        'email_content'         => 'Mail gönderme sevisi ( SMTP ) ile ilgili Host, Port bilgilerini buradan ayarlayabilirsiniz.',
+        'contact_setting'       => 'İletişim Ayarları',
+        'contact_content'       => 'Web Sitenizin iletişim sayfasında ki iletişim ayarlarını bu kısımdan yapabilirsiniz.',
+        'cache_setting'         => 'Önbellek Ayarları',
+        'cache_content'         => 'Önbellekleme Sistemi ile ilgili ayarlarınızı buradan yapabilirsiniz.',
+        'image_setting'         => 'Resim Ayarları',
+        'image_content'         => 'Sisteme yükleyeceğiniz Resimler ile ilgili ayarları bu bölümden yapabilirsiniz.',
+        'sitemap_setting'       => 'Site Haritası Ayarları',
+        'sitemap_content'       => 'Site Haritası ile ilgili ayarlarınızı bu bölümden yapabilirsiniz.',
+        'webmaster_setting'     => 'Webmaster Ayarları',
+        'webmaster_content'     => 'Webmaster araçları ile ilgili ayarları buradan yapabilirsiniz.',
+        'firebase_setting'      => 'Firebase Ayarları',
+        'firebase_content'      => 'Firebase ile bildirim gönderme ayarlarınızı buradan yapabilirsiniz.',
+        'autoshare_setting'     => 'Oto Paylaşım Ayarları',
+        'autoshare_content'     => 'Sosyal Medya hesaplarınızda Otomatik Paylaşım ile ilgili ayarlarınızı buradan yapabilirsiniz.',
+        'image_select'          => 'Resim Seç',
+        'save'                  => 'Kaydet',
+        'connection'            => 'Bağlan',
+        'testing'               => 'Test Et',
+        'memcache'              => 'MemCache',
+        'predis'                => 'pRedis',
+        'redis'                 => 'Redis',
+        'wincache'              => 'WinCache',
+        'mail'                  => 'Mail',
+        'sendmail'              => 'Sendmail',
+        'smtp'                  => 'smtp',
+        'system'                => 'Sistem',
+        'theme_setting'         => 'Tema Ayarları',
+        'theme_setting_content' => 'Sistemdeki temalar ile ilgili ayarları burada yapabilirsiniz.'
+
+    ]
+];

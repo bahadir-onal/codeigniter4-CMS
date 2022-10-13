@@ -1,0 +1,43 @@
+<?php
+
+return [
+    'title' => 'Ayarlar Sayfası Çeviri Dosyası',
+    'description' => '',
+    'text'  => [
+        'title'             => 'Settings',
+        'change_btn'        => 'Change Settings',
+        'site_setting'      => 'Site Settings',
+        'site_content'      => 'You can adjust the Title, Description and Logo settings for your site from this section.',
+        'system_setting'    => 'System settings',
+        'system_content'    => 'You can make your System Maintenance Mode, Registration, Login Verification system settings here.',
+        'email_setting'     => 'E-Mail Settings',
+        'email_content'     => 'You can set the Host and Port information about the mail sending service ( SMTP ) here.',
+        'contact_setting'   => 'Contact Settings',
+        'contact_content'   => 'You can adjust the communication settings on the contact page of your website from this section.',
+        'cache_setting'     => 'Cache Settings',
+        'cache_content'     => 'You can make your settings for the Caching System here.',
+        'image_setting'     => 'Picture Settings',
+        'image_content'     => 'You can adjust the settings related to the Pictures you will upload to the system from this section.',
+        'sitemap_setting'   => 'Sitemap Settings',
+        'sitemap_content'   => 'You can make your sitemap settings from this section.',
+        'webmaster_setting' => 'Webmaster Settings',
+        'webmaster_content' => 'You can make settings related to webmaster tools here.',
+        'firebase_setting'  => 'Firebase Settings',
+        'firebase_content'  => 'You can set your notification sending settings with Firebase here.',
+        'autoshare_setting' => 'Auto Sharing Settings',
+        'autoshare_content' => 'You can adjust your Auto Sharing settings on your Social Media accounts here.',
+        'image_select'      => 'Choose Image',
+        'save'              => 'Save',
+        'connection'        => 'Connect',
+        'testing'           => 'Take a Test',
+        'memcache'          => 'MemCache',
+        'predis'            => 'pRedis',
+        'redis'             => 'Redis',
+        'wincache'          => 'WinCache',
+        'mail'              => 'Mail',
+        'sendmail'          => 'Sendmail',
+        'smtp'              => 'SMTP',
+        'system'            => 'System',
+
+    ]
+];
